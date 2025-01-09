@@ -1,6 +1,3 @@
-# Hackathon-Packing-List
-With the Telkom learn hackathon underway, I would like to share a list of things I usually pack with me to hackathons. Feel free to fork it or make a pull request to add your own items
-
 # Hackathon Survival Kit 🧑‍💻  
 
 Welcome to the **Hackathon Survival Kit**! Whether it’s your first overnight hackathon or your tenth, this list is here to help you stay prepared, productive, and (mostly) sane. Fork this repo or open a pull request to add your own essentials—we’re all about collaborative survival here.  

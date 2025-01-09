@@ -44,8 +44,7 @@ What’s your go-to hackathon essential? Open an [issue](../../issues) or submit
 
 ---
 
-## 📄 License  
-This list is shared under the [MIT License](LICENSE)—because sharing is caring, even when it comes to survival tips.  
+because sharing is caring, even when it comes to survival tips.  
 
 
 If you have any questions or need further assistance, please reach out to me on the app 0713346084.
